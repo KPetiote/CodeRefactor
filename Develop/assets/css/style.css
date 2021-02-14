@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Changed div to header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed div to nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+/* Changed div to nav */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Changed div to nav */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -59,13 +62,6 @@ p {
     background-position: center;
 }
 
-.flex-container {
-    display: flex;
-    justify-content: flex-end;
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
 .float-left {
     float: left;
     margin-right: 25px;
