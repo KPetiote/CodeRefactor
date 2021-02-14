@@ -9,3 +9,5 @@ The HTML & CSS for Horiseon was changed by:
 - Structuring the code in a logical order
 - Adding alt descrition for all images
 - Adding a Title for Horiseon
+
+![Alt text](Assets/01-html-css-git-homework-demo.png "Horiseon Website")
