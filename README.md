@@ -10,5 +10,3 @@ The HTML & CSS for Horiseon was changed by:
 - Adding alt descrition for all images
 - Adding a Title for Horiseon
 - Added Imagine Path in Read-Me
-
-![Alt text](assets/website/01-html-css-git-homework-demo.png "Horiseon Website")
